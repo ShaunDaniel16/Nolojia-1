@@ -1,0 +1,25 @@
+{
+  "short_name": "Nolojia - Future Information Activation",
+  "name": "Nolojia empowers and trains young people to become professional Developers for the African tech market as part of a mission to build developer talent throughout Africa. We provide our students with the chanceto learn the current technologies. Our training materials are routinely updated to reflect the ever evolving nature of technology",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#daa520",
+  "background_color": "#0d0452"
+}
